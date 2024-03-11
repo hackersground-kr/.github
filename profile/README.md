@@ -5,6 +5,7 @@
 해커그라운드는 대구/경북 최고의 개발자 커뮤니티 육성을 통해 대구/경북지역 개발자의 자립을 목표로 합니다.
 
 ### 해커그라운드 해커톤 현장스케치
+👇썸네일 클릭하면👇 해커톤 현장 분위기를 알 수 있어요!
 [![Hackers Ground Hackathon](http://img.youtube.com/vi/vGnvoaQd7dA/0.jpg)](https://youtu.be/vGnvoaQd7dA=0s)
 
 해커그라운드가 궁금하시다면?
