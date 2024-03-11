@@ -12,17 +12,17 @@
 
 해커그라운드가 궁금하시다면?
 
-* 해커그라운드 공식 홈페이지: https;//hackersground.kr
+* [해커그라운드 공식 홈페이지](https://hackersground.kr)
 
-* 해커그라운드 디스코드: https://aka.ms/hg/discord
+* [해커그라운드 디스코드](https://aka.ms/hg/discord)
 
-* 해커그라운드 유튜브: https://www.youtube.com/@hackersground-kr
+* [해커그라운드 유튜브](https://www.youtube.com/@hackersground-kr)
 
-* 해커그라운드 인스타: https://www.instagram.com/hackers_ground/
+* [해커그라운드 인스타](https://www.instagram.com/hackers_ground/)
 
-* 해커그라운드 오카방: https://aka.ms/student-developers/daegu (비밀번호 8080)
+* [해커그라운드 오카방](https://aka.ms/student-developers/daegu) (비밀번호 8080)
 
-* 해커그라운드 해커톤 언론보도: https://www.imaeil.com/page/view/2023070314324916579 
+* [해커그라운드 해커톤 언론보도](https://www.imaeil.com/page/view/2023070314324916579)
 
 
 
